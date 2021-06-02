@@ -6,7 +6,7 @@
     "start": "npm start",
     "dev": "node test.js"
   },
-  "author": "sunbang",
+  "author": "Thang",
   "license": "ISC",
   "dependencies": {
     "excel-export": "^0.5.1",
