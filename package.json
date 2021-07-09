@@ -9,6 +9,7 @@
   "author": "Thang",
   "license": "ISC",
   "dependencies": {
+    "dayjs": "^1.10.6",
     "excel-export": "^0.5.1",
     "fs": "0.0.1-security",
     "node-xlsx": "^0.16.1"
